@@ -1,7 +1,7 @@
 /* Set the font family for the entire body */
  body {
   font-family: Arial, sans-serif;
-  background: url('backg.png') no-repeat;
+  background: url('../image/backg.png') no-repeat;
   background-size: cover;
 } 
 
