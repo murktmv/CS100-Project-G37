@@ -19,7 +19,7 @@ button {
     background-color: rgb(7, 187, 7);
     border-color: white;
     border-radius: 25px;
-    position: absolute;
+    position: fixed;
     top: 50px;
     right: 250px;
     padding: 15px;
@@ -32,7 +32,7 @@ button {
 button span {
     cursor: pointer;
     display: inline-block;
-    position: relative;
+    position: fixed;
     transition: 0.5s;
 }
   
