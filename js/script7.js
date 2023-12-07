@@ -1,3 +1,8 @@
+const config = {
+  backendUrl: "http://localhost:8000/", // Default backend URL
+};
+const port = 8000;
+
 document.addEventListener("DOMContentLoaded", function () {
     // Define the input variables
     const fullnameInput = document.getElementById("fullname");
